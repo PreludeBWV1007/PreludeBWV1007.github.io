@@ -6,12 +6,31 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
+<hr>
+  <div>
+    <h1>
+      Les's first play a game!
+    </h1>
+    <p>You are a farmer with eight years of experience and a stable rice field. One day, 
+      you discover a new farming method on the market that can accelerate the growth 
+      and harvest of rice. However, this does not necessarily guarantee an increase in 
+      final profits due to potential changes in yield or quality. Over time, this new 
+      farming method gains popularity, and you begin to worry whether other farms adopting 
+      this method will change the market dynamics, impacting your own rice farm. On the 
+      other hand, if you decide to adopt this new method yourself, the outcomes remain 
+      uncertain. Torn between maintaining your current approach and embracing change, 
+      what choice will you make? </p>
+      <h2>
+        <p>This is precisely the dilemma YouTubers faced in 2013.</p>
+      </h2>
+  </div>
+<hr>
+    
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
   <li class="post-preview">
     <article>
-
       {%- capture thumbnail -%}
         {% if post.thumbnail-img %}
           {{ post.thumbnail-img }}
@@ -36,22 +55,6 @@ layout: page
       {% endif %}
       {% endif %}
 
-      <hr>
-      <div>
-        <h1>
-          Les's first play a game!
-        </h1>
-        <p>You are a farmer with eight years of experience and a stable rice field. One day, 
-          you discover a new farming method on the market that can accelerate the growth 
-          and harvest of rice. However, this does not necessarily guarantee an increase in 
-          final profits due to potential changes in yield or quality. Over time, this new 
-          farming method gains popularity, and you begin to worry whether other farms adopting 
-          this method will change the market dynamics, impacting your own rice farm. On the 
-          other hand, if you decide to adopt this new method yourself, the outcomes remain 
-          uncertain. Torn between maintaining your current approach and embracing change, 
-          what choice will you make? </p>
-      </div>
-      <hr>
       <a href="{{ post.url | absolute_url }}">
         <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
