@@ -50,7 +50,13 @@ First, we aimed to conduct an overall analysis that is not specific to any parti
 
 Under various weighting settings, we observed similar conclusions. From the chart, it is evident that after 2013, videos with a duration of 10-15 minutes showed a significant upward trend, becoming the mainstream on YouTube. In contrast, videos with a duration of 0-1 minutes performed poorly, significantly lagging behind other durations. 
 
-This phenomenon is partially attributable to changes in YouTube’s advertising model. In 2013, YouTube redefined its advertising strategy, notably introducing the skip ad feature. The combination of skippable and non-skippable ads, along with the platform allowing creators to insert mid-roll ads in addition to pre-roll ads, provided more monetization opportunities for creators. For instance, content creator Shelby Church shared that by extending her video length from 7 minutes to 13 minutes, her monthly income skyrocketed from $1,800 to $6,000. Surprisingly, she discovered that longer videos not only generated more revenue but also attracted more viewers, creating a win-win situation. This further incentivized YouTubers to produce longer content. 
+This phenomenon is partially attributable to changes in YouTube’s advertising model. In 2013, YouTube redefined its advertising strategy, notably introducing the skip ad feature. The combination of skippable and non-skippable ads, along with the platform allowing creators to insert mid-roll ads in addition to pre-roll ads, provided more monetization opportunities for creators. 
+
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 8px; font-family: Arial, sans-serif; line-height: 1.6;">
+  <p>
+    For instance, content creator Shelby Church shared that by extending her video length from 7 minutes to 13 minutes, her monthly income skyrocketed from $1,800 to $6,000. Surprisingly, she discovered that longer videos not only generated more revenue but also attracted more viewers, creating a win-win situation. This further incentivized YouTubers to produce longer content. 
+  </p>
+</div>
 
 Additionally, the rise of short-video platforms also played a crucial role in shaping this trend. According to Pew Research Center, the average video duration from the top 250,000 channels has increased to 13-14 minutes. The popularity of short-video platforms drew the attention of 0-1 minutes video enthusiasts, who gradually migrated to other platforms to satisfy their viewing preferences. Meanwhile, YouTubers shifted their focus to producing higher-quality and more in-depth 10-15 minutes videos to attract the audience that remained on the platform. This duration has become the core content format for YouTube amid the short-video boom. This shift reflects not only an adaptation to changes in the advertising mechanism but also a response to the evolving platform ecosystem and audience preferences. 
 
