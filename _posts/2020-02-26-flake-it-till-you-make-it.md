@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: Your Farming Plan!
+subtitle: In a YouTube Field under Short Videos Impact
+cover-img: /assets/img/farm.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
