@@ -104,14 +104,26 @@ It can be observed that the optimal video duration for most categories is around
 
 However, there are exceptions. In the Music category, the optimal duration is unusually longer, reaching over 30 minutes. This may be because a large portion of the audience in the Music category seeks long videos, such as several hours of white noise or other music, as continuous background sound for activities like sleep, studying, working, or exercising. These viewers may not like the interruptions from frequent switching between short videos. Additionally, fans of specific artists or albums may also feel more attached to longer videos. 
 
-Moreover, the worst-performing videos in the Science & Technology category also come from the 30+ minute range. The popularity of short videos may have made people more impatient and unwilling to focus on lengthy and potentially monotonous science and technology content. Long Science & Technology videos may fail to continuously provide engaging content to hold viewers' attention. Additionally, long videos in this category (such as those related to ADA,) often require a certain level of knowledge, increasing the viewing threshold for the audience. 
+Moreover, the worst-performing videos in the Science & Technology category also come from the 30+ minute range. The popularity of short videos may have made people more impatient and unwilling to focus on lengthy and potentially monotonous science and technology content. Long Science & Technology videos may fail to continuously provide engaging content to hold viewers' attention. 
 
-However, we also found another interesting phenomenon. When observing the best-performing videos in each year based on specific criteria (most views, most likes, most comments, and highest popularity), we find that the top videos tend to be shorter. In other words, videos around 10-15 minutes long are most likely to help YouTubers achieve better video performance， but if your goal is to be number one, then you should focus on trying short videos. 
+<div style="background-color: #f0f0f045; padding: 2px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
+        <p>
+          Long videos in this category (such as those related to ADA 🤫) often require a certain level of knowledge, increasing the viewing threshold for the audience.
+        </p>
+</div>
+
+However, we also found another interesting phenomenon. When observing the best-performing videos in each year based on specific criteria (most views, most likes, most comments, and highest popularity), we find that the top videos tend to be shorter. 
+
+<div style="background-color: #f0f0f045; padding: 2px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
+        <p>
+          In other words, videos around 10-15 minutes long are most likely to help YouTubers achieve better video performance， but if your goal is to be number one, then you should focus on trying short videos.
+        </p>
+</div>
  
 # Content Strategies Analysis 
 ## Specialized Seeds or Not?
 
-Congratulations! As a rice field farmer, you have successfully identified the optimal growth cycle for your rice. However, you now face another dilemma: different rice varieties cater to different audiences. Should you plant multiple rice varieties to expand your farm’s influence, or should you specialize in cultivating a single variety and become an expert in that field? Particularly under the influence of this new rice farming method, the answers to these questions might be entirely different. Moreover, the consequences of these choices could be significant and irreversible, leaving you cautiously indecisive. 
+Congratulations! 🎉 As a rice field farmer, you have successfully identified the optimal growth cycle for your rice 🧑‍🌾. However, you now face another dilemma: **different rice varieties cater to different audiences**. ***Should you plant multiple rice varieties to expand your farm’s influence***, or ***should you specialize in cultivating a single variety and become an expert in that field?*** Particularly under the influence of this new rice farming method, the answers to these questions might be entirely different. Moreover, the consequences of these choices could be significant and irreversible, leaving you cautiously indecisive. 
 
 Don’t worry, let’s take it step by step to make some informed judgments. 
 
