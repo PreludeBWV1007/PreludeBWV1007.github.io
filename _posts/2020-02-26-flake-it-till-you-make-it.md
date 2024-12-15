@@ -261,7 +261,7 @@ It is evident that the rise of short videos, combined with the inherent characte
 
 YouTubers who have faced the wave of short videos have indeed spontaneously developed some coping strategies (especially the relatively successful ones). Most of them have chosen a video duration of around 10-15 minutes while simultaneously reducing the diversity of their video topics. For some special categories (such as Comedy, Nonprofits & Activism, and Travel & Events), we conducted targeted analyses. 
 
-<img src="/assets/img/surf" width="600" style="display: block; margin: 0 auto;">
+<img src="/assets/img/surf.jpg" width="600" style="display: block; margin: 0 auto;">
 
 We hope you’ve learned some methods to navigate the "impact of new management measures" from the above analysis. As of now, in 2024, even greater challenges are still affecting your "field." By reflecting on past experiences from your "farm," you may have gained some insights into planting strategies. It’s likely that you now have new thoughts on the choice of planting methods and the diversity of crop varieties in your rice field. 
 
