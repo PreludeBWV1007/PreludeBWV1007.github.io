@@ -9,10 +9,27 @@ tags: [books, test]
 author: LaughtoDeath666
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+## Let's play a game first!
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+You are a farmer with eight years of experience and a stable rice field. One day, you discover a new farming method on the market that can accelerate the growth and harvest of rice. However, this does not necessarily guarantee an increase in final profits due to potential changes in yield or quality. Over time, this new farming method gains popularity, and you begin to worry whether other farms adopting this method will change the market dynamics, impacting your own rice farm. On the other hand, if you decide to adopt this new method yourself, the outcomes remain uncertain. Torn between maintaining your current approach and embracing change, what choice will you make?
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+### This is precisely the dilemma YouTubers faced in 2013. 
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+## What's going on in 2013?
+
+The year 2013 is considered the dawn of the short video era. With the advancement of smartphone technology, people can easily use their phones to watch videos anytime and anywhere. That same year, Vine pioneered the concept of 6-second videos, quickly gaining traction among young audiences and sparking a wave of imitators. Soon after, Instagram followed by launching 15-second videos to attract users, which led to the rapid popularization of short video culture. Following Vine's success, TikTok emerged as a leader in the short video space with its 60-second videos, establishing itself as the new giant in the field. The rapid growth of multiple short video platforms inevitably impacted YouTube, the long-standing leader in the video domain. 
+
+However, YouTube's response to the short video trend was relatively slow. It wasn't until 2020 that YouTube launched Shorts to capture the audience drawn to short video culture. By analyzing the YouNiverse dataset, which includes YouTube video data from 2005 to 2019, we can explore the impact of the short video wave on YouTube creators. 
+
+# Choosing the Right Way
+## Duration Analysis 
+
+Just as farmers choose different methods to manage their rice fields, YouTubers must decide on the optimal video durations to adopt. We preprocessed the dataset and filtered it to include only English-language channels for analysis. It is undeniable that the rise of short videos has influenced user preferences for video durations. However, the question remains: does this mean users are increasingly favoring short videos? Or have short-video enthusiasts migrated to other platforms, leaving YouTube with an audience that prefers longer videos? Furthermore, could YouTube’s delayed response to short videos be based on data-driven insights suggesting that short videos have not significantly impacted its growth? 
+
+To address these questions, we use 2013 as a critical time point to analyze the optimal video durations on YouTube before and after the short-video boom. We introduce the “popular score” as a metric to measure whether a video is trending, aiming to explore how YouTubers’ choices of video duration influence video performance.  
+
+
+
+
+
+
