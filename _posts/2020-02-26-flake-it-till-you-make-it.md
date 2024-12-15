@@ -209,12 +209,22 @@ By analyzing the proportion of videos in different categories under different st
 
 To answer this, we calculated the impact of strategies on various factors across different categories. For those categories significantly affected by strategy, we compared the mean values under the three different strategies to determine which strategy performs best. 
 
-From the bar chart, we can infer that the specialized strategy is best suited for channels in the Comedy category, as viewers tend to prefer specific content styles. Thus, adopting a specialized strategy can effectively boost view counts and subscriber growth. 
+From the bar chart, we can infer that:
+<ul>
+        <li>
+                The specialized strategy is best suited for channels in the Comedy category, as viewers tend to prefer specific content styles. Thus, adopting a specialized strategy can effectively boost view counts and subscriber growth. 
 
-The mixed strategy works well for channels in the Gaming and Autos & Vehicles categories, as these channels need to strike a balance between diversity and focus to attract a broader audience. 
+        </li>
+        <li>
+                The mixed strategy works well for channels in the Gaming and Autos & Vehicles categories, as these channels need to strike a balance between diversity and focus to attract a broader audience. 
+        </li>
+        <li>
+                The diversified strategy is more suitable for channels in the How-To & Style and Travel & Events categories, where audiences have a high demand for varied content. By adopting a diversified strategy, creators can capture the interest of a wider range of viewers. 
+        </li>
+</ul>
 
-The diversified strategy is more suitable for channels in the How-To & Style and Travel & Events categories, where audiences have a high demand for varied content. By adopting a diversified strategy, creators can capture the interest of a wider range of viewers. 
- 
+At the same time, the rise of short videos has lowered the barriers for creators to experiment with different categories. Furthermore, short video platforms have distinct advantages in certain categories, prompting us to further analyze how YouTubers should adapt their strategies within different categories.
+
 ## Strategy Selection Across Categories 
 ### Determine the Seeds!
 
