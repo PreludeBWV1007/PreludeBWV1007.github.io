@@ -62,19 +62,39 @@ Additionally, the rise of short-video platforms also played a crucial role in sh
 
 The popularity of short-video platforms drew the attention of 0-1 minutes video enthusiasts, who gradually migrated to other platforms to satisfy their viewing preferences. 
 
-Meanwhile, YouTubers shifted their focus to producing higher-quality and more in-depth 10-15 minutes videos to attract the audience that remained on the platform. This duration has become the core content format for YouTube amid the short-video boom. This shift reflects not only an adaptation to changes in the advertising mechanism but also a response to the evolving platform ecosystem and audience preferences. 
+Meanwhile, YouTubers shifted their focus to producing higher-quality and more in-depth 10-15 minutes videos to attract the audience that remained on the platform. 
 
+<div style="background-color: #f0f0f045; padding: 2px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
+        <p>
+          This duration has become the core content format for YouTube amid the short-video boom. This shift reflects not only an adaptation to changes in the advertising mechanism but also a response to the evolving platform ecosystem and audience preferences. 
+        </p>
+</div>
 
 ## Category–Specific Trends 
 ### Targeting Different Seeds
 
 But you may wonder whether this conclusion applies equally to all types of rice varieties (e.g., <span style="color: rgba(255, 221, 0, 0.695);">Long-Grain Rice</span>, <span style="color: rgba(0, 123, 255, 0.695);">Jasmine Rice</span>, <span style="color: rgba(145, 255, 0, 0.695);">Riso Camolino</span>, <span style="color: rgba(0, 225, 255, 0.695);">Basmati Rice</span>). ***What if the type of rice you are growing doesn’t follow this pattern?***
 
-Similarly, can we conclude that this trend is reasonable for all videos? It is difficult to make such a sweeping judgment. Therefore, we categorized videos by their respective categories and analyzed the video duration of each category. 
+Similarly, ***can we conclude that this trend is reasonable for all videos?*** It is difficult to make such a sweeping judgment. **Therefore, we categorized videos by their respective categories and analyzed the video duration of each category.**
 
 The significance analysis of duration before and after 2013 shows that, before 2013, the video duration had no significant effect on performance in most categories except for Comedy. However, after 2013, all categories, except for Nonprofits, showed significant results, indicating that video duration had a significant impact on video performance. 
 
-Compared to other categories, comedy has had a longer development time. In the past, people had the opportunity to engage in comedy-related activities offline which had already required the creators to optimize video length to meet audience demands. Now with the shift to online platforms like YouTube, comedy enthusiasts have developed established preferences that remain consistent on YouTube, making it less influenced by the short-video culture but consistently have a preference for a specific duration.  
+Compared to other categories, comedy has had a longer development time. 
+
+<div style="display: flex; align-items: center; text-align: center; font-family: Arial, sans-serif;">
+  <!-- 左块 -->
+  <div style="flex: 1; padding: 20px; background-color: #f9f9f9;">
+    <h3>Past</h3>
+    <p>In the past, people had the opportunity to engage in comedy-related activities offline which had already required the creators to optimize video length to meet audience demands.</p>
+  </div>
+  <!-- 中间竖线 -->
+  <div style="width: 2px; background-color: #ccc;"></div>
+  <!-- 右块 -->
+  <div style="flex: 1; padding: 20px; background-color: #f9f9f9;">
+    <h3>Future</h3>
+    <p>Now with the shift to online platforms like YouTube, comedy enthusiasts have developed established preferences that remain consistent on YouTube, making it less influenced by the short-video culture but consistently have a preference for a specific duration。</p>
+  </div>
+</div>
 
 While audiences in the Nonprofits & Activism category typically have a clear goal, such as obtaining key information or supporting a cause, rather than enjoying the content itself. Therefore, the impact of video length on viewing performance is relatively small. 
 For the categories where video duration had a significant impact after 2013, further research will be conducted. 
