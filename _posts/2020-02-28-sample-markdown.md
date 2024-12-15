@@ -33,6 +33,14 @@ When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they 
 
 How about a yummy crepe?
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/20802185">
+  <script src="https://public.flourish.studio/resources/embed.js"></script>
+  <noscript>
+    <img src="https://public.flourish.studio/visualisation/20802185/thumbnail" width="100%" alt="chart visualization" />
+  </noscript>
+</div>
+
+
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
 It can also be centered!
