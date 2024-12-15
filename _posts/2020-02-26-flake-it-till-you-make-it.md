@@ -15,6 +15,8 @@ You are a farmer with eight years of experience and a stable rice field. One day
 
 ### This is precisely the dilemma YouTubers faced in 2013. 
 
+<img src="/assets/img/dilema.jpg" width = "300">
+
 ## What's going on in 2013?
 
 The year 2013 is considered the dawn of the short video era. With the advancement of smartphone technology, people can easily use their phones to watch videos anytime and anywhere. That same year, Vine pioneered the concept of 6-second videos, quickly gaining traction among young audiences and sparking a wave of imitators. Soon after, Instagram followed by launching 15-second videos to attract users, which led to the rapid popularization of short video culture. Following Vine's success, TikTok emerged as a leader in the short video space with its 60-second videos, establishing itself as the new giant in the field. The rapid growth of multiple short video platforms inevitably impacted YouTube, the long-standing leader in the video domain. 
