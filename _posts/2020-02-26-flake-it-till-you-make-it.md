@@ -228,12 +228,16 @@ At the same time, the rise of short videos has lowered the barriers for creators
 ## Strategy Selection Across Categories 
 ### Determine the Seeds!
 
-After gaining an understanding of the overall picture, it’s time to decide which rice varieties to cultivate! Under the impact of the new rice field management methods, we aim to explore whether to add, reduce, or maintain the variety of rice being planted to attract more customers in the market. In other words, we want to determine whether short videos have influenced channel strategies by examining the choices of channel strategies before and after 2013. 
+After gaining an understanding of the overall picture, it’s time to decide which rice varieties to cultivate 🌾! Under the impact of the new rice field management methods, we aim to explore whether to add, reduce, or maintain the variety of rice being planted to attract more customers in the market. In other words, we want to determine **whether short videos have influenced channel strategies by examining the choices of channel strategies before and after 2013**. 
 
 According to the data, the proportion of the diversified strategy decreased by approximately 60% compared to 13 years ago, while the mixed strategy dropped by about 10%. In contrast, the specialized strategy increased by around 5%. This trend indicates that after the rise of short videos, YouTube audiences have shown a stronger preference for channels with a more focused content selection. 
-To analyze strategies for each specific category, we conducted an ANOVA to determine whether strategies had a significant impact on categories before and after 2013, and identified the significant results. 
+To analyze strategies for each specific category, we conducted an Analysis of Variance (ANOVA) to determine whether strategies had a significant impact on categories before and after 2013, and identified the significant results. 
 
-The results indicate that before 2013, Autos & Vehicles, Entertainment, and Travel & Events were best suited to the diversified strategy, while Comedy was better suited to the specialized strategy. After 2013, Comedy remained best suited to the specialized strategy, and Travel & Events continued to align with the diversified strategy. However, the impact of strategy on the Autos & Vehicles category was no longer significant, and Entertainment shifted from being suited to the diversified strategy to the mixed strategy. Additionally, categories such as Education, Science & Technology, Nonprofits & Activism, How-To & Style, and News & Politics began to show significant sensitivity to strategy. 
+<div style="background-color: #f0f0f045; padding: 4px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
+        <p>
+          The results indicate that before 2013, Autos & Vehicles, Entertainment, and Travel & Events were best suited to the diversified strategy, while Comedy was better suited to the specialized strategy. After 2013, Comedy remained best suited to the specialized strategy, and Travel & Events continued to align with the diversified strategy.</p>
+        <p>However, the impact of strategy on the Autos & Vehicles category was no longer significant, and Entertainment shifted from being suited to the diversified strategy to the mixed strategy. Additionally, categories such as Education, Science & Technology, Nonprofits & Activism, How-To & Style, and News & Politics began to show significant sensitivity to strategy.</p>
+</div>
 
 ### How has the rise of short-video culture contributed to the changes or maintenance of these optimal strategies? We aim to explore the following key questions. 
 
@@ -249,7 +253,9 @@ In the early stages, the Entertainment category was aligned with the diversified
 ## The Shifts Among Others: 
 After 2013, the impact of strategy on the Autos & Vehicles category became less significant due to its stable audience demand, which is primarily focused on specific themes such as reviews and modifications. In contrast, categories such as Education, Science & Technology, Nonprofits & Activism, How-To & Style, and News & Politics began to show significant sensitivity to strategy. This reflects the diversification of audience preferences and the maturation of the content market. Creators in these categories need to select strategies based on their unique characteristics, such as adopting a diversified strategy to broaden their reach or using a mixed strategy to balance content across multiple categories and enhance performance. 
 
-It is evident that the rise of short videos, combined with the inherent characteristics of each category, has jointly driven changes in strategy. This also addresses the initial question posed in this section: Can YouTubers diversify their channels by integrating content from different categories to attract a broader audience? Should creators focus on a single category or mix content from multiple categories? The answer is not absolute; it depends on the specific characteristics of the category and the external influences at a given point in time. 
+It is evident that the rise of short videos, combined with the inherent characteristics of each category, has jointly driven changes in strategy. This also addresses the initial question posed in this section: Can YouTubers diversify their channels by integrating content from different categories to attract a broader audience? Should creators focus on a single category or mix content from multiple categories? 
+
+#### The answer is not absolute: it depends on the specific characteristics of the category and the external influences at a given point in time. 
 
 # Conclusion 
 
