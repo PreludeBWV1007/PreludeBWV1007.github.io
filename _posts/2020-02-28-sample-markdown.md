@@ -31,14 +31,74 @@ Here's a table:
 You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-How about a yummy crepe?
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .chart-container {
+      display: none;
+    }
+    .chart-container.active {
+      display: block;
+    }
+    .button-group button {
+      margin: 5px;
+      padding: 10px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <!-- 按钮组 -->
+  <div class="button-group">
+    <button onclick="showChart('chart1')">图表 1</button>
+    <button onclick="showChart('chart2')">图表 2</button>
+    <button onclick="showChart('chart3')">图表 3</button>
+  </div>
+  
+  <!-- 图表容器 -->
+  <div id="chart1" class="chart-container active">
+    <div class="flourish-embed flourish-chart" data-src="visualisation/20802185">
+      <script src="https://public.flourish.studio/resources/embed.js"></script>
+      <noscript>
+        <img src="https://public.flourish.studio/visualisation/20802185/thumbnail" width="100%" alt="chart visualization" />
+      </noscript>
+    </div>
+  </div>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/20802185">
-  <script src="https://public.flourish.studio/resources/embed.js"></script>
-  <noscript>
-    <img src="https://public.flourish.studio/visualisation/20802185/thumbnail" width="100%" alt="chart visualization" />
-  </noscript>
-</div>
+  <div id="chart2" class="chart-container active">
+    <div class="flourish-embed flourish-chart" data-src="visualisation/20802185">
+      <script src="https://public.flourish.studio/resources/embed.js"></script>
+      <noscript>
+        <img src="https://public.flourish.studio/visualisation/20802185/thumbnail" width="100%" alt="chart visualization" />
+      </noscript>
+    </div>
+  </div>
+
+  <div id="chart3" class="chart-container active">
+    <div class="flourish-embed flourish-chart" data-src="visualisation/20802185">
+      <script src="https://public.flourish.studio/resources/embed.js"></script>
+      <noscript>
+        <img src="https://public.flourish.studio/visualisation/20802185/thumbnail" width="100%" alt="chart visualization" />
+      </noscript>
+    </div>
+  </div>
+
+  <script>
+    // JavaScript 函数用于切换图表
+    function showChart(chartId) {
+      const charts = document.querySelectorAll('.chart-container');
+      charts.forEach(chart => {
+        chart.classList.remove('active');
+      });
+      document.getElementById(chartId).classList.add('active');
+    }
+  </script>
+</body>
+</html>
+
+
+How about a yummy crepe?
 
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
