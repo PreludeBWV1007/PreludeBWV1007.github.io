@@ -68,7 +68,7 @@ Meanwhile, YouTubers shifted their focus to producing higher-quality and more in
 ## Category–Specific Trends 
 ### Targeting Different Seeds
 
-But you may wonder whether this conclusion applies equally to all types of rice varieties (e.g., Long-Grain Rice, Jasmine Rice, Riso Camolino, Basmati Rice). What if the type of rice you are growing doesn’t follow this pattern? 
+But you may wonder whether this conclusion applies equally to all types of rice varieties (e.g., <span style="color: rgba(255, 221, 0, 0.695);">Long-Grain Rice</span>, <span style="color: rgba(0, 123, 255, 0.695);">Jasmine Rice</span>, <span style="color: rgba(145, 255, 0, 0.695);">Riso Camolino</span>, <span style="color: rgba(0, 225, 255, 0.695);">Basmati Rice</span>). ***What if the type of rice you are growing doesn’t follow this pattern?***
 
 Similarly, can we conclude that this trend is reasonable for all videos? It is difficult to make such a sweeping judgment. Therefore, we categorized videos by their respective categories and analyzed the video duration of each category. 
 
