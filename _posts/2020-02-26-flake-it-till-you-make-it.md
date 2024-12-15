@@ -81,22 +81,23 @@ The significance analysis of duration before and after 2013 shows that, before 2
 
 Compared to other categories, comedy has had a longer development time. 
 
-<div style="display: flex; align-items: center; text-align: center; font-family: Arial, sans-serif;">
+<div style="display: flex; align-items: stretch; text-align: center; font-family: Arial, sans-serif;">
   <!-- 左块 -->
-  <div style="flex: 1; padding: 20px; background-color: #f9f9f9;">
+  <div style="flex: 1; padding: 20px; background-color: #f9f9f9; min-height: 150px;">
     <h3>Past</h3>
     <p>In the past, people had the opportunity to engage in comedy-related activities offline which had already required the creators to optimize video length to meet audience demands.</p>
   </div>
   <!-- 中间竖线 -->
   <div style="width: 2px; background-color: #ccc;"></div>
   <!-- 右块 -->
-  <div style="flex: 1; padding: 20px; background-color: #f9f9f9;">
+  <div style="flex: 1; padding: 20px; background-color: #f9f9f9; min-height: 150px;">
     <h3>Future</h3>
-    <p>Now with the shift to online platforms like YouTube, comedy enthusiasts have developed established preferences that remain consistent on YouTube, making it less influenced by the short-video culture but consistently have a preference for a specific duration。</p>
+    <p>Now with the shift to online platforms like YouTube, comedy enthusiasts have developed established preferences that remain consistent on YouTube, making it less influenced by the short-video culture but consistently have a preference for a specific duration.</p>
   </div>
 </div>
 
-While audiences in the Nonprofits & Activism category typically have a clear goal, such as obtaining key information or supporting a cause, rather than enjoying the content itself. Therefore, the impact of video length on viewing performance is relatively small. 
+While audiences in the Nonprofits & Activism category typically have a clear goal, such as obtaining key information or supporting a cause, rather than enjoying the content itself. Therefore, the impact of video length on viewing performance is relatively <span style="font-size: smaller;">small</span>. 
+
 For the categories where video duration had a significant impact after 2013, further research will be conducted. 
 
 It can be observed that the optimal video duration for most categories is around the 10-15 minute range, while the worst-performing videos are typically in the 0-1 minute range. This is consistent with the overall trend we mentioned earlier. 
