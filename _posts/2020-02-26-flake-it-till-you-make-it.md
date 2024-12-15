@@ -37,7 +37,7 @@ Just as farmers evaluate rice field management strategies by observing the final
 
 We can anticipate that more creators tend to publish shorter videos, whereas the number of longer videos is significantly smaller. As a result, video durations are not evenly distributed across video quantities. To establish a simple yet relatively reasonable categorization for video durations, we adopted the following intervals: ‘0-1’, ‘1-2’, ‘2-3’, ‘3-4’, ‘4-6’, ‘6-10’, ‘10-15’, ‘15-30’, and ‘30+’ minutes. 
 
-<div style="background-color: #f0f0f045; padding: 2px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
+<div style="background-color: #f0f0f045; padding: 4px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
         <p>
           Using this classification, we created a pie chart showing the distribution of videos across these duration intervals. The results reveal a relatively balanced distribution of video quantities across different durations, providing a solid foundation for subsequent analyses of video performance across various durations. 
         </p>
@@ -64,7 +64,7 @@ The popularity of short-video platforms drew the attention of 0-1 minutes video 
 
 Meanwhile, YouTubers shifted their focus to producing higher-quality and more in-depth 10-15 minutes videos to attract the audience that remained on the platform. 
 
-<div style="background-color: #f0f0f045; padding: 2px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
+<div style="background-color: #f0f0f045; padding: 4px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
         <p>
           This duration has become the core content format for YouTube amid the short-video boom. This shift reflects not only an adaptation to changes in the advertising mechanism but also a response to the evolving platform ecosystem and audience preferences. 
         </p>
@@ -106,7 +106,7 @@ However, there are exceptions. In the Music category, the optimal duration is un
 
 Moreover, the worst-performing videos in the Science & Technology category also come from the 30+ minute range. The popularity of short videos may have made people more impatient and unwilling to focus on lengthy and potentially monotonous science and technology content. Long Science & Technology videos may fail to continuously provide engaging content to hold viewers' attention. 
 
-<div style="background-color: #f0f0f045; padding: 2px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
+<div style="background-color: #f0f0f045; padding: 4px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
         <p>
           Long videos in this category (such as those related to ADA 🤫) often require a certain level of knowledge, increasing the viewing threshold for the audience.
         </p>
@@ -114,7 +114,7 @@ Moreover, the worst-performing videos in the Science & Technology category also 
 
 However, we also found another interesting phenomenon. When observing the best-performing videos in each year based on specific criteria (most views, most likes, most comments, and highest popularity), we find that the top videos tend to be shorter. 
 
-<div style="background-color: #f0f0f045; padding: 2px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
+<div style="background-color: #f0f0f045; padding: 4px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
         <p>
           In other words, videos around 10-15 minutes long are most likely to help YouTubers achieve better video performance， but if your goal is to be number one, then you should focus on trying short videos.
         </p>
@@ -127,14 +127,46 @@ Congratulations! 🎉 As a rice field farmer, you have successfully identified t
 
 Don’t worry, let’s take it step by step to make some informed judgments. 
 
-Based on the previous analysis, we can conclude that under the impact of short videos, YouTubers from different categories need to adjust their video lengths according to their specific circumstances to improve audience engagement and performance. At the same time, the rise of short videos has lowered the barriers for creators to experiment with different categories. Furthermore, short video platforms have distinct advantages in certain categories, prompting us to further analyze how YouTubers should adapt their strategies within different categories. Could this phenomenon have a profound impact on YouTubers’ content strategies and their long-term development? 
+Based on the previous analysis, we can conclude:
+<ul>
+        <li>
+                Under the impact of short videos, YouTubers from different categories need to adjust their video lengths according to their specific circumstances to improve audience engagement and performance.
+        </li>
+        <li>
+                At the same time, the rise of short videos has lowered the barriers for creators to experiment with different categories.
+        </li>
+        <li>
+                Furthermore, short video platforms have distinct advantages in certain categories, prompting us to further analyze how YouTubers should adapt their strategies within different categories.
+        </li>
+</ul>
+***Could this phenomenon have a profound impact on YouTubers’ content strategies and their long-term development?***
 
-Specifically, as audience demands become increasingly diverse, the challenge of attracting subscribers has grown more complex for creators. For YouTubers within a specific category, their subscribers can generally be divided into the following groups: 
-audiences within the category whose preferences align with the video length; audiences within the category whose preferences do not align with the video length; audiences from other categories. 
+Specifically, as audience demands become increasingly diverse, the challenge of attracting subscribers has grown more complex for creators. For YouTubers within a specific category, their subscribers can generally be divided into the following groups:
+<div style="display: flex; align-items: center; text-align: center; font-family: Arial, sans-serif;">
+  <!-- 第一个块：对齐视频长度的观众 -->
+  <div style="flex: 1; padding: 20px; background-color: #f9f9f9;">
+    <h3>Audiences Aligned with Video Length</h3>
+    <p>These audiences have preferences that align with the video's duration, making it easy for creators to meet their expectations.</p>
+  </div>
+  <!-- 中间竖线 -->
+  <div style="width: 2px; background-color: #ccc;"></div>
+  <!-- 第二个块：不对齐视频长度的观众 -->
+  <div style="flex: 1; padding: 20px; background-color: #f9f9f9;">
+    <h3>Audiences Not Aligned with Video Length</h3>
+    <p>These audiences may find it difficult to engage with videos that don't match their expected length, leading to reduced satisfaction.</p>
+  </div>
+  <!-- 中间竖线 -->
+  <div style="width: 2px; background-color: #ccc;"></div>
+  <!-- 第三个块：来自其他类别的观众 -->
+  <div style="flex: 1; padding: 20px; background-color: #f9f9f9;">
+    <h3>Audiences from Other Categories</h3>
+    <p>Audiences from different categories may have different content preferences, and their engagement may not depend on video length.</p>
+  </div>
+</div>
 
 Once the optimal video length for a category is determined (disregarding the impact of video quality), YouTubers aiming to further grow their subscriber base may need to attempt to attract audiences from other categories. However, in the process of appealing to audiences from different categories, could the combination of two categories create a mismatch that leads to the loss of the original audience? 
 
-This brings us to a key question: Can YouTubers diversify their channels by integrating content from different categories to attract more viewers? This is directly tied to the choice of channel strategy—should creators focus on a single category or mix content from different categories? 
+This brings us to a key question: ***Can YouTubers diversify their channels by integrating content from different categories to attract more viewers? This is directly tied to the choice of channel strategy—should creators focus on a single category or mix content from different categories?***
 
 ## Strategy Impact Overview 
 ### Learning from Successful Fields
@@ -143,9 +175,35 @@ First, we selected channels that we consider relatively successful for analysis 
 
 We also defined three strategies: specialized, mixed, and diversified, which represent the proportion of videos from the most dominant category within a creator’s channel, divided into three ranges: 0.7-1.0, 0.4-0.7, and 0-0.4, respectively. 
 
+<div style="display: flex; align-items: center; text-align: center; font-family: Arial, sans-serif;">
+  <!-- 第一个块 -->
+  <div style="flex: 1; padding: 20px; background-color: #f9f9f9;">
+    <h3>Specialized</h3>
+    <p>0.7-1.0</p>
+  </div>
+  <!-- 中间竖线 -->
+  <div style="width: 2px; background-color: #ccc;"></div>
+  <!-- 第二个块 -->
+  <div style="flex: 1; padding: 20px; background-color: #f9f9f9;">
+    <h3>mixed</h3>
+    <p>0.4-0.7</p>
+  </div>
+  <!-- 中间竖线 -->
+  <div style="width: 2px; background-color: #ccc;"></div>
+  <!-- 第三个块 -->
+  <div style="flex: 1; padding: 20px; background-color: #f9f9f9;">
+    <h3>diversified</h3>
+    <p>0-0.4</p>
+  </div>
+</div>
+
 From the chart, it is clear that the majority of successful channels have adopted the specialized strategy. Even after altering the criteria for defining “successful” and adjusting the classification standards for strategy proportions, the same conclusion was observed. Therefore, for the subsequent analysis, we focus specifically on the top 25% and the three strategy ranges: 0.7-1.0, 0.4-0.7, and 0-0.4. 
 
-The consistency of these results suggests that, overall, adopting a specialized strategy—focusing on attracting a fixed audience -- is the most favorable choice for creators. However, when it comes to individual creators, is this conclusion universally applicable? Not necessarily. 
+<div style="background-color: #f0f0f045; padding: 4px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
+        <p>
+          The consistency of these results suggests that, overall, adopting a specialized strategy—focusing on attracting a fixed audience -- is the most favorable choice for creators. However, when it comes to individual creators, is this conclusion universally applicable? Not necessarily. 
+        </p>
+</div>
 
 By analyzing the proportion of videos in different categories under different strategies for successful channels, we gained some initial insights: certain types of content seem better suited to specific strategies. For example, Film & Animation channels have a success rate of only 0.03% under the specialized strategy but a significantly higher success rate of 22.6% under the diversified strategy. This might suggest that the category aligns better with the specialized strategy. But is this truly the case? 
 
