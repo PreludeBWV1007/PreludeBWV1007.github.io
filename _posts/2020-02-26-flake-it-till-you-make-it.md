@@ -37,10 +37,10 @@ Just as farmers evaluate rice field management strategies by observing the final
 
 We can anticipate that more creators tend to publish shorter videos, whereas the number of longer videos is significantly smaller. As a result, video durations are not evenly distributed across video quantities. To establish a simple yet relatively reasonable categorization for video durations, we adopted the following intervals: ‘0-1’, ‘1-2’, ‘2-3’, ‘3-4’, ‘4-6’, ‘6-10’, ‘10-15’, ‘15-30’, and ‘30+’ minutes. 
 
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 8px; font-family: Arial, sans-serif; line-height: 1.6;">
-  <p>
-    Using this classification, we created a pie chart showing the distribution of videos across these duration intervals. The results reveal a relatively balanced distribution of video quantities across different durations, providing a solid foundation for subsequent analyses of video performance across various durations. 
-  </p>
+<div style="background-color: #f0f0f045; padding: 2px; border-radius: 8px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; line-height: 1.4;">
+        <p>
+          Using this classification, we created a pie chart showing the distribution of videos across these duration intervals. The results reveal a relatively balanced distribution of video quantities across different durations, providing a solid foundation for subsequent analyses of video performance across various durations. 
+        </p>
 </div>
 
 ## General Trends
@@ -52,13 +52,17 @@ Under various weighting settings, we observed similar conclusions. From the char
 
 This phenomenon is partially attributable to changes in YouTube’s advertising model. In 2013, YouTube redefined its advertising strategy, notably introducing the skip ad feature. The combination of skippable and non-skippable ads, along with the platform allowing creators to insert mid-roll ads in addition to pre-roll ads, provided more monetization opportunities for creators. 
 
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 8px; font-family: Arial, sans-serif; line-height: 1.6;">
-  <p>
-    For instance, content creator Shelby Church shared that by extending her video length from 7 minutes to 13 minutes, her monthly income skyrocketed from $1,800 to $6,000. Surprisingly, she discovered that longer videos not only generated more revenue but also attracted more viewers, creating a win-win situation. This further incentivized YouTubers to produce longer content. 
-  </p>
-</div>
+<ul>
+        <li>
+            For instance, content creator Shelby Church shared that by extending her video length from 7 minutes to 13 minutes, her monthly income skyrocketed from $1,800 to $6,000. Surprisingly, she discovered that longer videos not only generated more revenue but also attracted more viewers, creating a win-win situation. This further incentivized YouTubers to produce longer content. 
+        </li>
+</ul>
 
-Additionally, the rise of short-video platforms also played a crucial role in shaping this trend. According to Pew Research Center, the average video duration from the top 250,000 channels has increased to 13-14 minutes. The popularity of short-video platforms drew the attention of 0-1 minutes video enthusiasts, who gradually migrated to other platforms to satisfy their viewing preferences. Meanwhile, YouTubers shifted their focus to producing higher-quality and more in-depth 10-15 minutes videos to attract the audience that remained on the platform. This duration has become the core content format for YouTube amid the short-video boom. This shift reflects not only an adaptation to changes in the advertising mechanism but also a response to the evolving platform ecosystem and audience preferences. 
+Additionally, the rise of short-video platforms also played a crucial role in shaping this trend. According to Pew Research Center, the average video duration from the top 250,000 channels has increased to 13-14 minutes. 
+
+The popularity of short-video platforms drew the attention of 0-1 minutes video enthusiasts, who gradually migrated to other platforms to satisfy their viewing preferences. 
+
+Meanwhile, YouTubers shifted their focus to producing higher-quality and more in-depth 10-15 minutes videos to attract the audience that remained on the platform. This duration has become the core content format for YouTube amid the short-video boom. This shift reflects not only an adaptation to changes in the advertising mechanism but also a response to the evolving platform ecosystem and audience preferences. 
 
 
 ## Category–Specific Trends 
