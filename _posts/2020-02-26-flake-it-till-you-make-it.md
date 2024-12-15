@@ -37,7 +37,11 @@ Just as farmers evaluate rice field management strategies by observing the final
 
 We can anticipate that more creators tend to publish shorter videos, whereas the number of longer videos is significantly smaller. As a result, video durations are not evenly distributed across video quantities. To establish a simple yet relatively reasonable categorization for video durations, we adopted the following intervals: ‘0-1’, ‘1-2’, ‘2-3’, ‘3-4’, ‘4-6’, ‘6-10’, ‘10-15’, ‘15-30’, and ‘30+’ minutes. 
 
-Using this classification, we created a pie chart showing the distribution of videos across these duration intervals. The results reveal a relatively balanced distribution of video quantities across different durations, providing a solid foundation for subsequent analyses of video performance across various durations. 
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 8px; font-family: Arial, sans-serif; line-height: 1.6;">
+  <p>
+    Using this classification, we created a pie chart showing the distribution of videos across these duration intervals. The results reveal a relatively balanced distribution of video quantities across different durations, providing a solid foundation for subsequent analyses of video performance across various durations. 
+  </p>
+</div>
 
 ## General Trends
 ### Surveying the Fields
