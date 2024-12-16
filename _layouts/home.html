@@ -7,20 +7,34 @@ layout: page
 {% assign posts = paginator.posts | default: site.posts %}
 
 <hr>
-  <div>
-    <h1>
-      Our team member
-    </h1>
-    <ul style="list-style-type: disc; margin-left: 20px;">
-        <li>Shengze Jiang,   shengze.jiang@epfl.ch</li>
-        <li>Shuhua Chen,     shuahua.chen@epfl.ch</li>
-        <li>Xuanrui Li,      xuanrui.li@epfl.ch</li>
-        <li>Xinran Li,       xinran.li@epfl.ch</li>
-        <li>Xinyue Zhang,    xinyue.zhang@epfl.ch</li>
-    </ul>
-  </div>
+<div>
+  <h1>Our team member</h1>
+  <ul style="list-style-type: disc; margin-left: 0; padding-left: 0;">
+    <li style="display: flex; margin-bottom: 5px;">
+      <span style="flex: 1;">Shengze Jiang</span>
+      <span>shengze.jiang@epfl.ch</span>
+    </li>
+    <li style="display: flex; margin-bottom: 5px;">
+      <span style="flex: 1;">Shuhua Chen</span>
+      <span>shuahua.chen@epfl.ch</span>
+    </li>
+    <li style="display: flex; margin-bottom: 5px;">
+      <span style="flex: 1;">Xuanrui Li</span>
+      <span>xuanrui.li@epfl.ch</span>
+    </li>
+    <li style="display: flex; margin-bottom: 5px;">
+      <span style="flex: 1;">Xinran Li</span>
+      <span>xinran.li@epfl.ch</span>
+    </li>
+    <li style="display: flex; margin-bottom: 5px;">
+      <span style="flex: 1;">Xinyue Zhang</span>
+      <span>xinyue.zhang@epfl.ch</span>
+    </li>
+  </ul>
+</div>
 <hr>
-    
+
+
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
