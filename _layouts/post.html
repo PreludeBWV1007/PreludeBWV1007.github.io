@@ -43,7 +43,7 @@ layout: base
         {{ content }}
       </div>
 
-      {% if page.tags.size = 0 %}
+      {% if page.tags.size > 10 %}
         <div class="blog-tags">
           <span>Tags:</span>
           {% for tag in page.tags %}
