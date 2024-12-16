@@ -6,8 +6,8 @@
     {% endif %}
     {% if page.date %}
       {{ page.date }}
-    {% else %}
       {{ site.time | date: '%Y' }}
+    {% else %}
     {% endif %}
 
     {% if site.url-pretty %}
