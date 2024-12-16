@@ -20,11 +20,10 @@ author: Shengze Jiang, Shuhua Chen, Xuanrui Li, Xinran Li, Xinyue Zhang
 ###############################################
 
 navbar-links:
-  # Resources:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Group's home: "https://epfl-ada.github.io/"
-  ADA's home: "about us"
+  Resources:
+   - Dataset YouNiverse: "https://github.com/epfl-dlab/YouNiverse/tree/master"
+  Project GitHub: "https://github.com/epfl-ada/ada-2024-project-laughtodeath666"
+  ADA's home: "https://epfl-ada.github.io/"
 
 ################
 # --- Logo --- #
