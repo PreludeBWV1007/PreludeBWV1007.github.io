@@ -137,7 +137,6 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#000000"           # 导航栏背景为黑色
 navbar-text-col: "#FFFFFF"      # 导航栏文字为白色
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
