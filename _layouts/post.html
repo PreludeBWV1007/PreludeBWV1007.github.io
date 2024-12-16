@@ -73,3 +73,24 @@ layout: base
     </div>
   </div>
 </main>
+
+<script>
+  // JavaScript 函数：按组名切换图表
+  function showChart(chartId, groupName) {
+    const charts = document.querySelectorAll(`.chart-container.${groupName}`);
+    charts.forEach(chart => chart.classList.remove('active')); // 隐藏当前组的所有图表
+    document.getElementById(chartId).classList.add('active');  // 激活指定图表
+  }
+
+  // 页面加载时默认显示每组的第一个图表
+  document.addEventListener('DOMContentLoaded', () => {
+    const groups = ['group1', 'group2']; // 你可以添加更多组名
+    groups.forEach(group => {
+      const charts = document.querySelectorAll(`.chart-container.${group}`);
+      charts.forEach(chart => chart.classList.remove('active'));
+      if (charts[0]) {
+        charts[0].classList.add('active'); // 激活每组的第一个图表
+      }
+    });
+  });
+</script>
