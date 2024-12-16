@@ -32,6 +32,7 @@ layout: base
       {% endif %}
 
       {% if page.before-content %}
+      {% else %}
         <div class="before-content">
           {% for file in page.before-content %}
             {% include {{ file }} %}
