@@ -2,7 +2,7 @@
 layout: post
 title: Your Farming Plan!
 subtitle: In a YouTube Field under Short Videos Impact
-cover-img: /assets/img/farm.jpg
+cover-img: /assets/img/back.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
@@ -12,6 +12,8 @@ author: LaughtoDeath666
 ## Let's play a game first!
 
 You are a farmer with eight years of experience and a stable rice field. One day, you discover a **new farming method** on the market that can accelerate the growth and harvest of rice. However, this does not necessarily guarantee an increase in final profits due to potential changes in yield or quality. Over time, this new farming method gains **popularity**, and you begin to worry ***whether other farms adopting this method will change the market dynamics, impacting your own rice farm***. On the other hand, if you decide to adopt this new method yourself, the outcomes remain **uncertain**. Torn between maintaining your current approach and embracing change, what choice will you make?
+
+<img src="/assets/img/farm.jpg" width="500" style="display: block; margin: 0 auto;">
 
 ### This is precisely the dilemma YouTubers faced in 2013. 
 
