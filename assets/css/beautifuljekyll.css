@@ -782,6 +782,12 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
 }
 
+.content {
+    max-width: 1300px; /* 自定义页面宽度 */
+    margin: 0 auto;    /* 居中对齐 */
+    padding: 0 20px;   /* 内边距 */
+}
+
 /* --- Pagination --- */
 
 .pagination {
