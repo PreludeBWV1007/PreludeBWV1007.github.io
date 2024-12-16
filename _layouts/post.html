@@ -73,3 +73,26 @@ layout: base
     </div>
   </div>
 </main>
+
+<script>
+    // JavaScript 函数用于切换图表
+    function showChart(chartId) {
+      const charts = document.querySelectorAll('.chart-container');
+      charts.forEach(chart => {
+        chart.classList.remove('active');
+      });
+      document.getElementById(chartId).classList.add('active');
+    }
+
+    // 确保页面加载时只显示第一个图表
+      document.addEventListener('DOMContentLoaded', () => {
+              const charts = document.querySelectorAll('.chart-container');
+              charts.forEach(chart => {
+                chart.classList.remove('active');
+              });
+              // 激活第一个图表
+              if (charts[0]) {
+                charts[0].classList.add('active');
+              }
+    });
+</script>
