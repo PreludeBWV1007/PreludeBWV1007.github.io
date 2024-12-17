@@ -80,3 +80,15 @@ layout: base
   display: none;
 }
 </style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const tocLinks = document.querySelectorAll("#toc a");
+  tocLinks.forEach(link => {
+    if (link.getAttribute("href") === "#contents") {
+      link.parentElement.style.display = "none";
+    }
+  });
+});
+</script>
+
