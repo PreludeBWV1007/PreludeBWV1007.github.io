@@ -74,3 +74,25 @@ layout: base
   </div>
 </main>
 
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const headings = document.querySelectorAll("h1, h2"); // Select # and ## headings
+  const toc = document.getElementById("toc");
+
+  headings.forEach((heading, index) => {
+    if (heading.id === "") {
+      heading.id = "heading-" + index; // Add unique IDs if missing
+    }
+    const link = document.createElement("a");
+    link.href = "#" + heading.id;
+    link.textContent = heading.textContent;
+
+    const listItem = document.createElement("li");
+    listItem.appendChild(link);
+    toc.appendChild(listItem);
+  });
+});
+</script>
+
