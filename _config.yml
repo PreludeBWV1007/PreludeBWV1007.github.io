@@ -263,6 +263,7 @@ permalink: /:title/
 paginate: 5
 
 kramdown:
+  toc_levels: 1..2
   input: GFM
   math_engine: MathJax
   
