@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+
 {% include header.html type="post" %}
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
@@ -73,73 +74,3 @@ layout: base
   </div>
 </main>
 
-
-
-<!-- 
-<style>
-/* TOC container styles */
-#toc-container {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  width: 250px;
-  max-height: 80%;
-  overflow-y: auto;
-  padding: 10px;
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  font-size: 0.9em;
-  line-height: 1.4;
-  z-index: 9999;
-}
-
-#toc-container h3 {
-  margin-top: 0;
-  font-size: 1.1em;
-  text-align: center;
-}
-
-#toc-container ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-#toc-container a {
-  color: #333;
-  text-decoration: none;
-  display: block;
-  padding: 4px 0;
-}
-
-#toc-container a:hover {
-  text-decoration: underline;
-}
-</style>
-
-
-
-
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const headings = document.querySelectorAll("h1, h2"); // Select # and ## headings
-  const toc = document.getElementById("toc");
-
-  headings.forEach((heading, index) => {
-    if (heading.id === "") {
-      heading.id = "heading-" + index; // Add unique IDs if missing
-    }
-    const link = document.createElement("a");
-    link.href = "#" + heading.id;
-    link.textContent = heading.textContent;
-
-    const listItem = document.createElement("li");
-    listItem.appendChild(link);
-    toc.appendChild(listItem);
-  });
-});
-</script>
- -->
